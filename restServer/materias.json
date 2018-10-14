@@ -1,0 +1,55 @@
+[
+  {
+    "nc":"14401043",
+    "materias":[
+      {
+        "nombre":"algebra",
+        "photo":"",
+        "descripcion":"matematicas y bla bla bla"
+      },
+      {
+        "nombre":"Progra 2",
+        "photo":"",
+        "descripcion":"progra dos y bla bla bla"
+      },
+      {
+        "nombre":"Discretas",
+        "photo":"",
+        "descripcion":"matematicas y bla bla bla"
+      },
+      {
+        "nombre":"Moviles",
+        "photo":"",
+        "descripcion":"moviles y bla bla bla"
+      }
+      ]
+  },
+  
+  {
+    "nc":"14401035",
+    "materias":[
+      {
+        "nombre":"Discretas",
+        "photo":"",
+        "descripcion":"matematicas y bla bla bla"
+      },
+      {
+        "nombre":"Moviles",
+        "photo":"",
+        "descripcion":"moviles y bla bla bla"
+      }
+      ]
+  },
+  
+  {
+    "nc":"14401050",
+    "materias":[
+      {
+        "nombre":"Moviles",
+        "photo":"",
+        "descripcion":"moviles y bla bla bla"
+      }
+      ]
+  }
+  
+]
